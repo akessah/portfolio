@@ -12,7 +12,7 @@ GymTogether is an application designed to connect fitness enthusiasts through us
 ## [Transnational Stages](https://transnationalstages.net/)
 [source code](https://github.com/mit-history/dftd/tree/main)
 
-Transnational Stages is a collaboration between MIT, the Univeristy of Bergen in Bergen, Norway, and several other institutions to create set of data visualization tools meant to help historians analyze the theater productions in the 17th and 18th century Atlantic world. My focus for this project was the interactive bubble chart shown on the explpre the data page, along with updates to the main site layout.
+Transnational Stages is a collaboration between MIT, the Univeristy of Bergen in Bergen, Norway, and several other institutions to create set of data visualization tools meant to help historians analyze the theater productions in the 17th and 18th century Atlantic world. My focus for this project was the interactive bubble chart shown on the explore the data page, along with updates to the main site layout.
 
 ## [Star Battle](https://github.com/akessah/star_battle)
 
